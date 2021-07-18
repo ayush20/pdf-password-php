@@ -1,0 +1,6 @@
+{
+    "require": {
+        "madnh/fpdi-protection": "^1.0",
+        "setasign/fpdf": "^1.8"
+    }
+}
